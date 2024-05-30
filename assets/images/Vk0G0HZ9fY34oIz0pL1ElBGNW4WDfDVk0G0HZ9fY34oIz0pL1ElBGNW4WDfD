@@ -1,0 +1,6 @@
+window.oada_maxaccess_options_raw = JSON.parse('{"options":{"key":"Vk0G0HZ9fY34oIz0pL1ElBGNW4WDfD","status":"Active","domain":"www.pinkberry.com","ll_at_plus":true,"ll_at_enable":1,"dev_mode":0,"ll_at_hide_on_scroll":1,"ll_at_hide_on_touch":1,"ll_at_check_phone_email_links":1,"ll_at_check_image_alt":1,"ll_at_hide_bg_contrast":0,"ll_at_enable_accessibility_menu":0,"ll_at_enable_outlines":0,"ll_at_link_url":0,"ll_at_position":"right","ll_at_vertical_position":0,"ll_at_vertical_offset":"15","ll_at_horizontal_offset":"15","ll_at_hide_account_settings":1,"ll_at_default_url":0,"languageCode":"en-US","languageVoice":"Salli","languageStyle":"default","product_id":21},"customizations":{"id":241,"license_id":976,"advanced_toolbar":1,"mobile_friendly_menu":1,"colors":"{\\\"top\\\":\\\"#424242\\\",\\\"bottom\\\":\\\"#292929\\\",\\\"icon\\\":\\\"#0580b5\\\",\\\"icon_bg\\\":\\\"#ffffff\\\"}","logo":null,"hide_icon":0,"allow_swipe":0,"toolbar_icon":"{\\\"id\\\":\\\"universal-access\\\",\\\"icon_size\\\":\\\"100px\\\",\\\"bg_size\\\":\\\"95px\\\",\\\"type\\\":\\\"fas\\\",\\\"label\\\":\\\"universal-access\\\",\\\"icon\\\":\\\"fas fa-universal-access\\\"}","created_at":"2021-04-07T17:05:47.000000Z","updated_at":"2021-04-07T17:05:51.000000Z","link_url":null,"disable_logo_link":0,"small_icon":0}}'); 
+
+
+
+
+
